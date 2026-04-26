@@ -1,0 +1,8 @@
+{
+  "name": "liquid-staking-derivative-core",
+  "version": "1.0.0",
+  "description": "LSD Protocol implementation in a flat structure",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  }
+}
